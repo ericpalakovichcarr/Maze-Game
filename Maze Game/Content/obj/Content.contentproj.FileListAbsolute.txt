@@ -1,0 +1,4 @@
+C:\Development\Maze Game\Maze Game\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Development\Copy of Maze Game\Maze Game\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Development\Copy of Maze Game\Maze Game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Maze Game\Maze Game\Content\obj\x86\Debug\ResolveAssemblyReference.cache

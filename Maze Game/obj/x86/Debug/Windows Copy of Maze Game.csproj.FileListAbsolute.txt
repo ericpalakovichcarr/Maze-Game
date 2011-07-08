@@ -1,0 +1,27 @@
+C:\Development\Maze Game\Maze Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Maze Game\Maze Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Development\Maze Game\Maze Game\bin\x86\Debug\Content\tileset.xnb
+C:\Development\Maze Game\Maze Game\bin\x86\Debug\Maze Game.exe
+C:\Development\Maze Game\Maze Game\bin\x86\Debug\Maze Game.pdb
+C:\Development\Maze Game\Maze Game\obj\x86\Debug\Maze Game.exe
+C:\Development\Maze Game\Maze Game\obj\x86\Debug\Maze Game.pdb
+C:\Development\Maze Game\Maze Game\bin\x86\Debug\Content\player.xnb
+C:\Development\Copy of Maze Game\Maze Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Copy of Maze Game\Maze Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Development\Copy of Maze Game\Maze Game\obj\x86\Debug\Maze Game.exe
+C:\Development\Copy of Maze Game\Maze Game\bin\x86\Debug\Content\tileset.xnb
+C:\Development\Copy of Maze Game\Maze Game\bin\x86\Debug\Content\player.xnb
+C:\Development\Copy of Maze Game\Maze Game\bin\x86\Debug\Maze Game.exe
+C:\Development\Copy of Maze Game\Maze Game\bin\x86\Debug\Maze Game.pdb
+C:\Development\Copy of Maze Game\Maze Game\obj\x86\Debug\Maze Game.pdb
+C:\Development\Copy of Maze Game\Maze Game\bin\x86\Debug\Content\Font.xnb
+C:\Development\Maze Game\Maze Game\bin\x86\Debug\Content\Font.xnb
+C:\source\Maze Game\Maze Game\Maze Game\bin\x86\Debug\Content\tileset.xnb
+C:\source\Maze Game\Maze Game\Maze Game\bin\x86\Debug\Content\player.xnb
+C:\source\Maze Game\Maze Game\Maze Game\bin\x86\Debug\Content\Font.xnb
+C:\source\Maze Game\Maze Game\Maze Game\bin\x86\Debug\Maze Game.exe
+C:\source\Maze Game\Maze Game\Maze Game\bin\x86\Debug\Maze Game.pdb
+C:\source\Maze Game\Maze Game\Maze Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\Maze Game\Maze Game\Maze Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\source\Maze Game\Maze Game\Maze Game\obj\x86\Debug\Maze Game.exe
+C:\source\Maze Game\Maze Game\Maze Game\obj\x86\Debug\Maze Game.pdb

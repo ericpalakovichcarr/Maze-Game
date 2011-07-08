@@ -1,0 +1,7 @@
+C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Content\tileset.xnb
+C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Maze Game.exe
+C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Maze Game.pdb
+C:\Development\Maze Game\Maze Game\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Development\Maze Game\Maze Game\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Development\Maze Game\Maze Game\obj\Xbox 360\Debug\Maze Game.exe
+C:\Development\Maze Game\Maze Game\obj\Xbox 360\Debug\Maze Game.pdb

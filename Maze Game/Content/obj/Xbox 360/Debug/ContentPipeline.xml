@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tileset.png</Source>
+      <Name>tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Content\tileset.xnb</Output>
+      <Time>2008-11-16T16:17:04.203125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Content\player.xnb</Output>
+      <Time>2008-11-20T19:40:05.53125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Content\Font.xnb</Output>
+      <Time>2008-12-05T19:28:49.5625-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Development\Maze Game\Maze Game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Development\Maze Game\Maze Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Development\Maze Game\Maze Game\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Development\Maze Game\Maze Game\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-08T17:34:40.125-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

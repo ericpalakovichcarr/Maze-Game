@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Maze Game">
+</Property><Property Name="Solution File" Value="C:\source\Maze Game\Maze Game\Maze Game.sln">
+</Property><Property Name="Date" Value="Friday, July 08, 2011">
+</Property><Property Name="Time" Value="0:07 AM">
+</Property><Property Name="Solution" Value="Maze Game">
+</Property><Property Name="Solution File" Value="C:\source\Maze Game\Maze Game\Maze Game.sln">
+</Property><Property Name="Date" Value="Friday, July 08, 2011">
+</Property><Property Name="Time" Value="0:07:11 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Maze Game" Source="Maze Game\Maze Game.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Maze Game" Source="Maze Game\Maze Game.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Maze Game" Source="Maze Game\Maze Game.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Windows Copy of Maze Game" Source="Maze Game\Windows Copy of Maze Game.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Windows Copy of Maze Game" Source="Maze Game\Windows Copy of Maze Game.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Windows Copy of Maze Game" Source="Maze Game\Windows Copy of Maze Game.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Maze Game.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Maze Game.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Maze Game" Source="Maze Game\Maze Game.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Maze Game" Source="Maze Game\Maze Game.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Maze GameContent" Source="Maze Game\Content\Maze GameContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="Windows Copy of Maze Game" Source="Maze Game\Windows Copy of Maze Game.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Windows Copy of Maze Game" Source="Maze Game\Windows Copy of Maze Game.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>
